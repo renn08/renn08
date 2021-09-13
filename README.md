@@ -2,4 +2,5 @@
 
 [![Top Langs](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=renn08&langs_count=10&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-[![renn08's wakatime stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=renn08&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![renn08's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renn08)](https://github.com/anuraghazra/github-readme-stats)
+
