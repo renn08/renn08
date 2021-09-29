@@ -2,4 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renn08&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/renn08/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renn08)](https://github.com/renn08/github-readme-stats)
+
+
 
