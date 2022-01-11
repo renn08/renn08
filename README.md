@@ -9,6 +9,7 @@
     <img align="center" height="190" width = "480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renn08&hide=Tex&layout=compact&theme=dracula&langs_count=8" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="190" width = "480" src="http://github-readme-streak-stats.herokuapp.com?user=renn08&theme=dracula" />
 </p>
+ -->
