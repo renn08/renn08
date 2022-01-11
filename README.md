@@ -7,5 +7,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=renn08&theme=dracula" />
+  <img height="190" width = "480" src="http://github-readme-streak-stats.herokuapp.com?user=renn08&theme=dracula" />
 </p>
