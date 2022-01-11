@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="190" width = "190" src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=renn08&theme=dracula&layout=compact" />
+    <img align="center" height="190" width = "600" src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=renn08&theme=dracula&layout=compact" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="190" width = "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renn08&hide=Tex&theme=dracula&layout=compact&langs_count=8" />
+    <img align="center" height="190" width = "580" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renn08&hide=Tex&theme=dracula&layout=compact&langs_count=8" />
   </a>
 </p>
 <p align="center">
