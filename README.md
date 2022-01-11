@@ -1,4 +1,4 @@
-Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align = "center"> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="190" width = "480" src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=renn08&theme=dracula&layout=compact" />
