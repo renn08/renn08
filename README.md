@@ -9,6 +9,3 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=renn08&theme=dracula" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=renn08&layout=compact&theme=dracula" />
-</p>
