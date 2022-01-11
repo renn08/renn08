@@ -1,4 +1,3 @@
-[![renn08's wakatime stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=renn08&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="190" src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=renn08&theme=dracula&layout=compact" />
