@@ -1,4 +1,4 @@
-<p> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Ricky. I'm interested in DL/ML. Reach me at ✉️ Email: <a>zeyiren@umich.edu</a>
+<p> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Ricky. I'm interested in DL/ML. Reach me at ✉️ Email: <a href="zeyiren@umich.edu">zeyiren@umich.edu</a>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=renn08&theme=dracula&layout=compact" />
