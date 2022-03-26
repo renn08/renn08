@@ -1,4 +1,4 @@
-<p> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Ricky. I'm interested in DL/ML. Reach me at ✉️ Email: zeyiren@umich.edu
+<p> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Ricky. I'm interested in DL/ML. Reach me at - ✉️ Email: zeyiren@umich.edu
   ## 📫 How to reach me:
 
 - ✉️ Email: zeyiren@umich.edu
