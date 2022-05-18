@@ -5,8 +5,8 @@
   </a>
 </p>
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renn08&hide=Tex&layout=compact&theme=dracula&langs_count=8" />
+  <a href="https://github.com/renn08/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-renn08.vercel.app/api/top-langs/?username=renn08&hide=Tex&layout=compact&theme=dracula&langs_count=8" />
   </a>
 </p>
 <!-- <p align="center">
