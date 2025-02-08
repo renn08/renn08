@@ -1,4 +1,4 @@
-<p> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"> I'm Ricky. I'm interested in software development, game development, and DL/ML applications. I know data structure and algorithms well by learning and practicing on Leetcode <a href="https://leetcode.com/renn08/">My Profile</a>. Reach me at ✉️ Email: <a href="mailto:zeyiren@umich.edu">zeyiren@umich.edu</a>
+<p> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"> I'm Ricky. I'm interested in software development, game development, and DL/ML applications. I know data structure and algorithms well by learning and practicing on Leetcode <a href="https://leetcode.com/renn08/">My Profile</a>. Reach me at ✉️ Email: <a href="mailto:zeyirenn@gmail.com">zeyirenn@gmail.com</a>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renn08)](https://github.com/anuraghazra/github-readme-stats) -->
